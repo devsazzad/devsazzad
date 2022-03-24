@@ -1,5 +1,5 @@
 <?php
-hello word
+echo:"hello word";
 
 /*case study:
     let's introduce myself
